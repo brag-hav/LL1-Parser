@@ -39,7 +39,7 @@ Parsing Start.......
 	STACK			INPUT			ACTION
 	$S		        aacbb$			Shift ,S->aSb
 	$bSa			aacbb$			Reduce
-	$bS			    acbb$			Shift ,S->aSb
+	$bS			acbb$			Shift ,S->aSb
 	$bbSa			acbb$			Reduce
 	$bbS			cbb$			Shift ,S->A
 	$bbA			cbb$			Shift ,A->c
