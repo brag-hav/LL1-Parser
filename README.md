@@ -10,7 +10,7 @@ A->c
 aacbb
 ```
 ## Output
-```console
+```	
 Enter file name :- 
 grammar.txt
 Start Variable :- S
